@@ -1,3 +1,10 @@
+A styled react-app project. Complete landing page created with React and Styled components.
+
+![styledreact](https://user-images.githubusercontent.com/71964085/151393804-adaf153f-b360-4a8c-9e4a-354c2faa8a28.png)
+
+![styledreact2](https://user-images.githubusercontent.com/71964085/151393898-a02bae7d-2d17-4958-b08e-6456ee598115.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
