@@ -1,4 +1,6 @@
 A styled react-app project. Complete landing page created with React and Styled components.
+A landing page built with React JS and  React styled-components Library. You can view the site here...
+https://eager-saha-f940d1.netlify.app/
 
 ![styledreact](https://user-images.githubusercontent.com/71964085/151393804-adaf153f-b360-4a8c-9e4a-354c2faa8a28.png)
 
